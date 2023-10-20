@@ -13,7 +13,7 @@ Understanding the “how” has always been something I aimed for, never satisfi
 https://www.linkedin.com/in/ronmorant/
 
 Check the boxes below to certify that your LinkedIn contains:
-
+ 
 - [X] professional profile picture (must be your actual face)
 - [X] a headline that contains a reference to your career in web development
 - [X] your last job listed in the experience section
