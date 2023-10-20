@@ -9,11 +9,8 @@ LinkedIn is the world's largest online professional networking community. An act
 Understanding the “how” has always been something I aimed for, never satisfied with just the end state. After serving 20 years of military service, I always had an interest in tech and wanting to understand the behind the scenes of what we see on our phones and web browsers. Learning with individuals that have the same passion is the most exciting part of attending LEARN, because we are able to lean on each other now, tomorrow, and possibly in the far future.
 
 - Submit the link to your LinkedIn profile with a custom shortened url:
-
 https://www.linkedin.com/in/ronmorant/
 
-Check the boxes below to certify that your LinkedIn contains:
- 
 - [X] professional profile picture (must be your actual face)
 - [X] a headline that contains a reference to your career in web development
 - [X] your last job listed in the experience section
